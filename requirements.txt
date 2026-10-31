@@ -1,0 +1,10 @@
+# Imported by the assignment notebook; original package versions were not recorded.
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+dtaidistance
+jupyterlab
